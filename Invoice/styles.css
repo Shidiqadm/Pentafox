@@ -1,0 +1,388 @@
+.1_2 { 
+	overflow:hidden;
+}.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:490px;
+	height:564px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+	position:absolute;
+}.e1_45 { 
+	width:417px;
+	height:158px;
+	position:absolute;
+	left:44px;
+	top:40px;
+}.e1_3 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:74px;
+	height:16px;
+	position:absolute;
+	left:343px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e1_44 { 
+	width:130px;
+	height:81px;
+	position:absolute;
+	left:0px;
+	top:8px;
+}.e1_6 { 
+	width:100px;
+	height:24px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e1_5 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:63px;
+	height:17px;
+	position:absolute;
+	left:37px;
+	top:4px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e1_4 { 
+	transform: rotate(180deg);
+	width:24px;
+	height:24px;
+	position:absolute;
+	left:24px;
+	top:0px;
+	background-image:url(images/slack_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_8 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:130px;
+	height:37px;
+	position:absolute;
+	left:0px;
+	top:44px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:9px;
+	letter-spacing:0;
+}.e1_43 { 
+	width:152px;
+	height:33px;
+	position:absolute;
+	left:265px;
+	top:125px;
+}.e1_10 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:152px;
+	height:33px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Rubik;
+	text-align:right;
+	font-size:12px;
+	letter-spacing:0;
+}.e1_42 { 
+	width:162px;
+	height:28px;
+	position:absolute;
+	left:38px;
+	top:512px;
+}.e1_39 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:121px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_40 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:162px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:16px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_41 { 
+	width:413px;
+	height:180px;
+	position:absolute;
+	left:38px;
+	top:263px;
+}.1_11 { 
+	border:1px solid rgba(201.8750050663948, 201.8750050663948, 201.8750050663948, 1);
+}.e1_11 { 
+	width:413px;
+	height:0px;
+	position:absolute;
+	left:0px;
+	top:19px;
+}.1_17 { 
+	border:1px solid rgba(242.2632658481598, 242.2632658481598, 242.2632658481598, 1);
+}.e1_17 { 
+	width:413px;
+	height:0px;
+	position:absolute;
+	left:0px;
+	top:50px;
+}.1_19 { 
+	border:1px solid rgba(242.2632658481598, 242.2632658481598, 242.2632658481598, 1);
+}.e1_19 { 
+	width:413px;
+	height:0px;
+	position:absolute;
+	left:0px;
+	top:81px;
+}.e1_36 { 
+	transform: rotate(-1.4033419209422001e-14deg);
+	width:66px;
+	height:0px;
+	position:absolute;
+	left:347px;
+	top:150px;
+}.1_36 { 
+	border:1px solid rgba(129.62499797344208, 129.62499797344208, 129.62499797344208, 1);
+}.e1_12 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:75px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_31 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:102px;
+	height:12px;
+	position:absolute;
+	left:226px;
+	top:100px;
+	font-family:Rubik;
+	text-align:right;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_37 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:102px;
+	height:12px;
+	position:absolute;
+	left:226px;
+	top:168px;
+	font-family:Rubik;
+	text-align:right;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_33 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:102px;
+	height:12px;
+	position:absolute;
+	left:226px;
+	top:125px;
+	font-family:Rubik;
+	text-align:right;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_20 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:75px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:29px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_25 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:75px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:60px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_22 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:40px;
+	height:12px;
+	position:absolute;
+	left:162px;
+	top:29px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_26 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:40px;
+	height:12px;
+	position:absolute;
+	left:162px;
+	top:60px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_24 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:40px;
+	height:12px;
+	position:absolute;
+	left:292px;
+	top:29px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_29 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:49px;
+	height:12px;
+	position:absolute;
+	left:359px;
+	top:29px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_32 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:49px;
+	height:12px;
+	position:absolute;
+	left:359px;
+	top:100px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_38 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:49px;
+	height:12px;
+	position:absolute;
+	left:359px;
+	top:168px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_34 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:49px;
+	height:12px;
+	position:absolute;
+	left:359px;
+	top:125px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_30 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:49px;
+	height:12px;
+	position:absolute;
+	left:359px;
+	top:60px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_27 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:40px;
+	height:12px;
+	position:absolute;
+	left:292px;
+	top:60px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_23 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:7px;
+	height:12px;
+	position:absolute;
+	left:248px;
+	top:29px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_28 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:7px;
+	height:12px;
+	position:absolute;
+	left:248px;
+	top:60px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_13 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:55px;
+	height:12px;
+	position:absolute;
+	left:155px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_14 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:33px;
+	height:12px;
+	position:absolute;
+	left:236px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_15 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:33px;
+	height:12px;
+	position:absolute;
+	left:295px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}.e1_16 { 
+	color:rgba(61.62499822676182, 61.62499822676182, 61.62499822676182, 1);
+	width:59px;
+	height:12px;
+	position:absolute;
+	left:354px;
+	top:0px;
+	font-family:Rubik;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}
