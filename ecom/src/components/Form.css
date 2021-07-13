@@ -1,0 +1,27 @@
+
+/* .form-container{
+    background-color: #FAEBE0;
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+    position: relative;
+    height: 70vh;
+    padding: 30px;
+} */
+
+.input-container{
+    margin: 20px;
+}
+
+.input-container p{
+    font-family: 'Gilroy',sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: rgb(77, 77, 77);
+}
+
+.btns-container{
+    display: flex;
+    justify-content: center;
+}
